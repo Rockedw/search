@@ -1,0 +1,6 @@
+1.初始化项目
+在demo目录下执行 sh -x ./init_project.sh
+
+2.启动服务
+在demo目录下执行 sh -x ./start_server.sh
+
